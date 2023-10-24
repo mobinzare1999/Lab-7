@@ -1,5 +1,5 @@
 # Lab-7
-Lab 07 exercise 2  of ProgrammingTechniques Politecnico Di Torino
+Lab 07 Exercise 2  of ProgrammingTechniques Politecnico Di Torino
 Evaluation of sorting algorithms
 Consider the following sorting algorithms to sort vectors of integers in ascending order:
  Selection Sort
